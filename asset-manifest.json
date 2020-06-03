@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pratapvadlapati/react-todo-app/static/css/main.ace743e4.chunk.css",
+    "main.js": "/pratapvadlapati/react-todo-app/static/js/main.824bd45e.chunk.js",
+    "main.js.map": "/pratapvadlapati/react-todo-app/static/js/main.824bd45e.chunk.js.map",
+    "runtime-main.js": "/pratapvadlapati/react-todo-app/static/js/runtime-main.b53e1453.js",
+    "runtime-main.js.map": "/pratapvadlapati/react-todo-app/static/js/runtime-main.b53e1453.js.map",
+    "static/css/2.9b8e7531.chunk.css": "/pratapvadlapati/react-todo-app/static/css/2.9b8e7531.chunk.css",
+    "static/js/2.2b8522f4.chunk.js": "/pratapvadlapati/react-todo-app/static/js/2.2b8522f4.chunk.js",
+    "static/js/2.2b8522f4.chunk.js.map": "/pratapvadlapati/react-todo-app/static/js/2.2b8522f4.chunk.js.map",
+    "index.html": "/pratapvadlapati/react-todo-app/index.html",
+    "precache-manifest.dda5ebb099a40aa01ee4b8a68223a666.js": "/pratapvadlapati/react-todo-app/precache-manifest.dda5ebb099a40aa01ee4b8a68223a666.js",
+    "service-worker.js": "/pratapvadlapati/react-todo-app/service-worker.js",
+    "static/css/2.9b8e7531.chunk.css.map": "/pratapvadlapati/react-todo-app/static/css/2.9b8e7531.chunk.css.map",
+    "static/css/main.ace743e4.chunk.css.map": "/pratapvadlapati/react-todo-app/static/css/main.ace743e4.chunk.css.map",
+    "static/js/2.2b8522f4.chunk.js.LICENSE.txt": "/pratapvadlapati/react-todo-app/static/js/2.2b8522f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b53e1453.js",
+    "static/css/2.9b8e7531.chunk.css",
+    "static/js/2.2b8522f4.chunk.js",
+    "static/css/main.ace743e4.chunk.css",
+    "static/js/main.824bd45e.chunk.js"
+  ]
+}
